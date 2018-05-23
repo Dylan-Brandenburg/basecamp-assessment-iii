@@ -1,0 +1,38 @@
+body{
+    padding: 15px;
+    background-color: grey;
+}
+
+.App-title{
+    text-align: center;
+}
+.App-logo {
+    width: 20%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#first{
+    display: block;
+    border: 5px solid rgb(146, 169, 245);
+    width: auto;
+    margin: 10px;
+    padding: 10px;
+}
+#second{
+    display: block;
+    border: 5px solid blueviolet;
+    width: auto;
+    margin: 10px;
+    padding: 10px;
+}
+#third{
+    display: block;
+    border: 5px solid rgb(52, 201, 7);
+    width: auto;
+    margin: 10px;
+    padding: 10px;
+}
+#whatPugsLove{
+    list-style-image: url('/img/dogPrint.png');
+}
